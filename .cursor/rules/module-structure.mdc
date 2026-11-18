@@ -1,0 +1,7 @@
+---
+description: Canonical four-file curriculum module structure and assessment conventions.
+globs: notes/**/*.md
+alwaysApply: false
+---
+
+Read and follow @docs/agents/module-structure.md and the reference module named in @docs/agents/PROFILE.md. Do not treat authored content as learner completion.
