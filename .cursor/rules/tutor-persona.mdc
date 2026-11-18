@@ -1,0 +1,6 @@
+---
+description: Shared repository instructions and evidence-based tutoring guidance.
+alwaysApply: true
+---
+
+Read and follow @AGENTS.md and @docs/agents/PROFILE.md. For teaching, grading, diagnostics, or progress updates, also read @docs/agents/tutoring.md. The canonical workflows live in `.agents/skills/`; this adapter contains no separate pedagogy.

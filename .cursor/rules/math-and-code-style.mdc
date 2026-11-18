@@ -1,0 +1,7 @@
+---
+description: Shared scientific notation and repository-specific numerical conventions.
+globs: ["**/*.md", "**/*.py", "**/*.ipynb"]
+alwaysApply: false
+---
+
+Read and follow @docs/agents/math-and-code-style.md and the code conventions in @docs/agents/PROFILE.md. Use the current repository's utilities and dependencies.

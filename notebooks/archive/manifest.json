@@ -1,0 +1,30 @@
+{
+  "archived_on": "2026-10-26",
+  "files": [
+    {
+      "original_path": "notebooks/BinomialDistribution.ipynb",
+      "archive_path": "notebooks/archive/BinomialDistribution.ipynb",
+      "sha256": "9dba0d22401e6e7df69b29630f4d1b840c66185922aa2144ae252cf6b3b72e33"
+    },
+    {
+      "original_path": "notebooks/Definitions.ipynb",
+      "archive_path": "notebooks/archive/Definitions.ipynb",
+      "sha256": "bf085016cf3d88829d6975f80fdcf14fd86d415dc8475eed451819dd96545831"
+    },
+    {
+      "original_path": "notebooks/LinearAlgebra.ipynb",
+      "archive_path": "notebooks/archive/LinearAlgebra.ipynb",
+      "sha256": "96c66c232da990a4eb414ced96b27abe9b384b99818153970e0da7ab0c06cac0"
+    },
+    {
+      "original_path": "notebooks/ProbablityDistributions.ipynb",
+      "archive_path": "notebooks/archive/ProbablityDistributions.ipynb",
+      "sha256": "47d12c1ec0f1fe820260439dc2ef4d09ee8707c3eaa14c0d717e0653f6e413b4"
+    },
+    {
+      "original_path": "notebooks/Theorems.ipynb",
+      "archive_path": "notebooks/archive/Theorems.ipynb",
+      "sha256": "e0bf5e820fc9e8a3ef17130350b2889be52f6ff45dd0d54760655db60a7e745b"
+    }
+  ]
+}
